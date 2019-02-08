@@ -1,3 +1,3 @@
-#Company Structure Project (in Java)
+#CompanyStructureProject
 
 Company Structure Project done in Java.
