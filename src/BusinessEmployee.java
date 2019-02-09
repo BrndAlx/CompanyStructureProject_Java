@@ -1,5 +1,6 @@
 public abstract class BusinessEmployee extends Employee {
     double budget;
+    static int baseSalary;
 
     public BusinessEmployee(String name) {
         super(name, 0);

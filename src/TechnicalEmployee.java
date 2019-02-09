@@ -1,5 +1,6 @@
 public abstract class TechnicalEmployee extends Employee {
     int checkINs;
+    static double baseSalary;
 
     TechnicalEmployee(String name){
         super(name,0);
